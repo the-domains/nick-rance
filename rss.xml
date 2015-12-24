@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Nick Rance]]></title>
         <description><![CDATA[Nick Rance]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nick-rance/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 05:06:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Dec 2015 05:06:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nick-rance/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Post #2]]></title>
+            <description><![CDATA[<h1>Post #2</h1>]]></description>
+            <link>https://thegrid.ai/nick-rance/post-2/index.html</link>
+            <guid isPermaLink="false">a49d2b5d-30b8-49b6-af5e-8e50983faf30</guid>
+            <pubDate>Thu, 24 Dec 2015 05:06:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[First Post!]]></title>
             <description><![CDATA[<article><h1>First Post!</h1><p>Lets see this!</p></article>]]></description>
-            <link>undefinedfirst-post/index.html</link>
+            <link>https://thegrid.ai/nick-rance/first-post/index.html</link>
             <guid isPermaLink="false">d2c7d247-3409-40ee-8274-063d0722c3b0</guid>
             <pubDate>Thu, 24 Dec 2015 05:06:14 GMT</pubDate>
         </item>
