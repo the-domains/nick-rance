@@ -1,0 +1,28 @@
+name: Nick Rance
+favicon: null
+layout_spectrum: 0.9520413130521774
+typography_spectrum: 0.59962252038531
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9275542770046741
+  lightness: 0.3115386008284986
+  saturation: 0.7264073072001338
+  rhythmicContrast: 0.49635903094895184
+purpose: []
