@@ -1,6 +1,6 @@
 name: Nick Rance
 favicon: null
-layout_spectrum: 0.73902
+layout_spectrum: 0.23925
 typography_spectrum: 1
 title: "Nick's Site"
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#040507'
+    - '#036f95'
+    - '#fffdff'
+    - '#58a2c9'
+    - '#b99c7a'
   brandStrength: 0
   lightness: 0.3115386008284986
   saturation: 0.7264073072001338
