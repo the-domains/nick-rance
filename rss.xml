@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Nick's Site]]></title>
         <description><![CDATA[Nick's Site]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://nickrance.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 02:05:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Mar 2016 00:16:49 GMT</lastBuildDate>
+        <atom:link href="http://nickrance.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Vote Reasoning for the 2016 Election]]></title>
+            <description><![CDATA[<article><h1>Vote Reasoning for the 2016 Election</h1><p>Election 2016 Voting Record</p></article>]]></description>
+            <link>http://nickrance.com/vote-reasoning-for-the-2016-election/index.html</link>
+            <guid isPermaLink="false">73cc7d01-8077-45d5-8187-6c72b94156e6</guid>
+            <pubDate>Wed, 02 Mar 2016 00:16:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Placeholder]]></title>
             <description><![CDATA[<h1>Placeholder</h1>]]></description>
-            <link>undefinedplaceholder/index.html</link>
+            <link>http://nickrance.com/placeholder/index.html</link>
             <guid isPermaLink="false">5a4de822-35f3-44e7-871f-6ef60e2c0c99</guid>
             <pubDate>Tue, 26 Jan 2016 02:05:10 GMT</pubDate>
         </item>
