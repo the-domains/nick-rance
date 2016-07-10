@@ -4,18 +4,25 @@
         <description><![CDATA[Nick's Site]]></description>
         <link>http://nickrance.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 00:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2016 16:21:43 GMT</lastBuildDate>
         <atom:link href="http://nickrance.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Improving literacy in Haiti using low-cost technology]]></title>
+            <description><![CDATA[<p>more blah blah</p>]]></description>
+            <link>http://nickrance.com/improving-literacy-in-haiti-using-low-cost-technology/index.html</link>
+            <guid isPermaLink="false">3d1c66c0-3d76-46cd-99e9-6ff1c41f2a52</guid>
+            <pubDate>Sun, 10 Jul 2016 16:21:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Vote Reasoning for the 2016 Election]]></title>
-            <description><![CDATA[<article><h1>Vote Reasoning for the 2016 Election</h1><p>Election 2016 Voting Record</p></article>]]></description>
+            <description><![CDATA[<p>Election 2016 Voting Record</p>]]></description>
             <link>http://nickrance.com/vote-reasoning-for-the-2016-election/index.html</link>
             <guid isPermaLink="false">73cc7d01-8077-45d5-8187-6c72b94156e6</guid>
             <pubDate>Wed, 02 Mar 2016 00:16:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Placeholder]]></title>
-            <description><![CDATA[<h1>Placeholder</h1>]]></description>
+            <description><![CDATA[<p>Placeholder</p>]]></description>
             <link>http://nickrance.com/placeholder/index.html</link>
             <guid isPermaLink="false">5a4de822-35f3-44e7-871f-6ef60e2c0c99</guid>
             <pubDate>Tue, 26 Jan 2016 02:05:10 GMT</pubDate>
