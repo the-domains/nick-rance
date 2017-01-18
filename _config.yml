@@ -1,20 +1,4 @@
-name: Nick Rance
-favicon: null
-layout_spectrum: 0.23925
 typography_spectrum: 1
-title: "Nick's Site"
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#040507'
@@ -26,4 +10,35 @@ color:
   lightness: 0.3115386008284986
   saturation: 0.7264073072001338
   rhythmicContrast: 0.49635903094895184
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.23925
+analytics:
+  google: null
+  facebook: null
+  twitter: ''
+name: Nick Rance
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Github
+    url: 'https://github.com/NickRance'
+    type: external
+  - name: Facebook
+    url: 'https://www.facebook.com/nicholas.rance'
+    type: external
+  - name: Twitter
+    url: 'https://twitter.com/nick_rance'
+    type: external
+favicon: null
+title: Nick's Site
+content: []
 purpose: []
+github: true
+author:
+  name: Nicholas Rance
+  email: nicholas.rance@gmail.com
