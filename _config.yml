@@ -37,7 +37,10 @@ navigation:
 favicon: null
 title: Nick's Site
 content: []
-purpose: []
+purpose:
+  - type: contact
+    url: 'mailto:nicholas.rance@gmail.com'
+    label: Contact me
 github: true
 author:
   name: Nicholas Rance
