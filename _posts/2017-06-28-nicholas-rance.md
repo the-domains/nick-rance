@@ -3,16 +3,16 @@ inFeed: true
 description: >-
   I’m familiar with most modern ML Frameworks such as Tensorflow and Caffe. I am
   always eagerly looking for creative applications of ML and Data Science.
-dateModified: '2017-06-29T00:24:39.236Z'
-datePublished: '2017-06-29T00:24:40.380Z'
+dateModified: '2017-06-29T00:25:41.511Z'
+datePublished: '2017-06-29T00:25:41.686Z'
 title: Skills
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-06-28-nicholas-rance.md
 hasPage: true
+datePublishedOriginal: '2017-06-29T00:25:41.686Z'
 starred: false
-datePublishedOriginal: '2017-06-28T23:55:23.631Z'
 url: skills/index.html
 _type: Article
 
