@@ -1,4 +1,3 @@
-layout_spectrum: 0.2927684542041567
 typography_spectrum: 0.9943213482563485
 color:
   brandColors:
@@ -11,15 +10,21 @@ color:
   lightness: 0.9127478112341227
   saturation: 0.7249669394006787
   rhythmicContrast: 0.4994076175228831
+github: true
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.2927684542041567
 analytics:
   google: null
   facebook: null
   twitter: ''
+author:
+  name: Nicholas Rance
+  email: nicholas.rance@gmail.com
 name: Nick Rance
+url: 'https://nickrance.com'
 cta:
   domain: null
   bucket: null
@@ -34,16 +39,14 @@ navigation:
   - name: Twitter
     url: 'https://twitter.com/nick_rance'
     type: external
+  - name: Portfolio
+    id: 325ed09a-9ad3-41e9-b157-b835d110a6e7
+    type: content
 favicon: null
 title: Nick's Site
 content: []
+description: Testing
 purpose:
   - type: contact
     url: 'mailto:nicholas.rance@gmail.com'
     label: Contact me
-github: true
-author:
-  name: Nicholas Rance
-  email: nicholas.rance@gmail.com
-description: Testing
-url: 'https://nickrance.com'
