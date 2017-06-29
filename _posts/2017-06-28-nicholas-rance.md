@@ -3,16 +3,18 @@ inFeed: true
 description: >-
   I’m familiar with most modern ML Frameworks such as Tensorflow and Caffe. I am
   always eagerly looking for creative applications of ML and Data Science.
-dateModified: '2017-06-29T00:20:49.861Z'
-datePublished: '2017-06-29T00:20:50.482Z'
+dateModified: '2017-06-29T00:23:43.092Z'
+datePublished: '2017-06-29T00:23:43.726Z'
 title: Skills
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-06-28-nicholas-rance.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-06-28T23:55:23.631Z'
-_type: Blurb
+url: skills/index.html
+_type: Article
 
 ---
 ![Full Stack Web Developer / Data Scientist](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7274d49-a386-43be-a142-349b7b724e5e.png)
@@ -44,6 +46,14 @@ I've developed programs for the Parrot ARDrone2.0 and have experience working wi
 Featured Project - \#DroneGoals - TribeHacks 2016 3rd Place
 
 Developed a voice command API for the ARDrone2.0 allowing it to perform various motor functions and acrobatic stunts without the need for manual control. We also implemented naive object tracking and following using openCV.
+
+---
+
+### **Contact**
+
+email: nicholas.rance@gmail.com
+
+twitter: @Nick\_Rance
 
 [0]: https://devpost.com/software/machine-learning-psychology-for-water-sustainability "Devpost Link"
 [1]: http://kidswrite.org/
