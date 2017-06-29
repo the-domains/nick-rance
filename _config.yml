@@ -45,7 +45,7 @@ navigation:
 favicon: null
 title: Nick's Site
 content: []
-description: Testing
+description: ''
 purpose:
   - type: contact
     url: 'mailto:nicholas.rance@gmail.com'
