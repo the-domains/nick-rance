@@ -3,9 +3,9 @@ inFeed: true
 description: >-
   I’m familiar with most modern ML Frameworks such as Tensorflow and Caffe. I am
   always eagerly looking for creative applications of ML and Data Science.
-dateModified: '2017-06-29T00:34:43.493Z'
-datePublished: '2017-06-29T00:34:44.183Z'
-title: Skills
+dateModified: '2017-06-29T00:36:09.877Z'
+datePublished: '2017-06-29T00:36:10.362Z'
+title: Machine Learning
 author: []
 publisher: {}
 via: {}
@@ -17,8 +17,6 @@ url: skills/index.html
 _type: Article
 
 ---
-## Skills
-
 ### Machine Learning
 
 I'm familiar with most modern ML Frameworks such as Tensorflow and Caffe. I am always eagerly looking for creative applications of ML and Data Science.
@@ -33,6 +31,7 @@ The goal of this project was the measure the amount of water being used from mic
 I have experience developing software for the Raspberry Pi single board computers and the Arduino embedded computer
 
 **Featured Project: [KidsWrite][1]**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ae839e3-aff2-455a-8659-cd96ba1a15fe.jpg)
 
 KidsWrite is a non-profit organization which uses computing and digital libraries to increase access to books for children in Haiti. When I joined the project they were interested in migrating their digital library system from OLPCs (One Laptop per Child) to a muse of a ore portable and scalable architecture. I proposed the use of the Raspberry Pi 3B as a server and wireless router and inexpensive android tablets as clients. I then configured the RPi as a server that could run on portable power (external battery pack) as power is often intermittent in Haiti. I also configured the Android tablets with simple portal applications to access the Pi hosted applications.
 
