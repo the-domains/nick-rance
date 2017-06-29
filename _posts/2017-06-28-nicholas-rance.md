@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   I’m familiar with most modern ML Frameworks such as Tensorflow and Caffe. I am
   always eagerly looking for creative applications of ML and Data Science.
-dateModified: '2017-06-29T00:18:00.137Z'
-datePublished: '2017-06-29T00:18:00.789Z'
+dateModified: '2017-06-29T00:20:49.861Z'
+datePublished: '2017-06-29T00:20:50.482Z'
 title: Skills
 author: []
 publisher: {}
@@ -32,14 +32,18 @@ The goal of this project was the measure the amount of water being used from mic
 
 I have experience developing software for the Raspberry Pi single board computers and the Arduino embedded computer
 
-Featured Project: [KidsWrite][1]
+**Featured Project: [KidsWrite][1]**
 
 KidsWrite is a non-profit organization which uses computing and digital libraries to increase access to books for children in Haiti. When I joined the project they were interested in migrating their digital library system from OLPCs (One Laptop per Child) to a muse of a ore portable and scalable architecture. I proposed the use of the Raspberry Pi 3B as a server and wireless router and inexpensive android tablets as clients. I then configured the RPi as a server that could run on portable power (external battery pack) as power is often intermittent in Haiti. I also configured the Android tablets with simple portal applications to access the Pi hosted applications.
 
-Drone/Robotics Development - TribeHacks 2016 3rd Place
+### Drone/Robotics Development
+
+I've developed programs for the Parrot ARDrone2.0 and have experience working with the DJI Phantom line of drones.
 ![Borrowed my hairstyle from the 80s](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9540f0e3-348a-4a1b-a655-f20de817dadb.jpg)
 
-Developed a voice command API for the ARDrone2.0 allowing it to perform various motor functions and acrobatic stunts without the need for manual control.
+Featured Project - \#DroneGoals - TribeHacks 2016 3rd Place
+
+Developed a voice command API for the ARDrone2.0 allowing it to perform various motor functions and acrobatic stunts without the need for manual control. We also implemented naive object tracking and following using openCV.
 
 [0]: https://devpost.com/software/machine-learning-psychology-for-water-sustainability "Devpost Link"
 [1]: http://kidswrite.org/
