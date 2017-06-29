@@ -3,9 +3,9 @@ inFeed: true
 description: >-
   I’m familiar with most modern ML Frameworks such as Tensorflow and Caffe. I am
   always eagerly looking for creative applications of ML and Data Science.
-dateModified: '2017-06-29T00:36:09.877Z'
-datePublished: '2017-06-29T00:36:10.362Z'
-title: Machine Learning
+dateModified: '2017-06-29T00:35:48.702Z'
+datePublished: '2017-06-29T00:35:49.023Z'
+title: Skills
 author: []
 publisher: {}
 via: {}
@@ -17,6 +17,8 @@ url: skills/index.html
 _type: Article
 
 ---
+## Skills
+
 ### Machine Learning
 
 I'm familiar with most modern ML Frameworks such as Tensorflow and Caffe. I am always eagerly looking for creative applications of ML and Data Science.
