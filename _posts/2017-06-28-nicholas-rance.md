@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: How does a Resume look on the grid
-dateModified: '2017-06-29T00:11:33.508Z'
-datePublished: '2017-06-29T00:11:34.426Z'
+dateModified: '2017-06-29T00:14:15.571Z'
+datePublished: '2017-06-29T00:14:16.643Z'
 title: Nicholas Rance
 author: []
 publisher: {}
@@ -36,6 +36,8 @@ I have experience developing software for the Raspberry Pi single board computer
 Featured Project: [KidsWrite][1]
 
 KidsWrite is a non-profit organization which uses computing and digital libraries to increase access to books for children in Haiti. When I joined the project they were interested in migrating their digital library system from OLPCs (One Laptop per Child) to a muse of a ore portable and scalable architecture. I proposed the use of the Raspberry Pi 3B as a server and wireless router and inexpensive android tablets as clients. I then configured the RPi as a server that could run on portable power (external battery pack) as power is often intermittent in Haiti. I also configured the Android tablets with simple portal applications to access the Pi hosted applications.
+
+Drone/Robotics Development - TribeHacks 3rd Place
 
 [0]: https://devpost.com/software/machine-learning-psychology-for-water-sustainability "Devpost Link"
 [1]: http://kidswrite.org/
