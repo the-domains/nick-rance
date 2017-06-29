@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   I’m familiar with most modern ML Frameworks such as Tensorflow and Caffe. I am
   always eagerly looking for creative applications of ML and Data Science.
-dateModified: '2017-06-29T00:23:43.092Z'
-datePublished: '2017-06-29T00:23:43.726Z'
+dateModified: '2017-06-29T00:24:03.903Z'
+datePublished: '2017-06-29T00:24:04.428Z'
 title: Skills
 author: []
 publisher: {}
